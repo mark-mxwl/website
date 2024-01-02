@@ -133,4 +133,3 @@ model.
 Ultimately, these two motivating factors lead to the same end. Elementary aims
 to make the process of writing audio software faster and more intuitive while
 producing more resilient code.
-
